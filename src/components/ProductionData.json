@@ -1,0 +1,124 @@
+{
+    "productionData": [
+      {
+        "date": "2025-05-01",
+        "machine": "Machine A",
+        "status": "Active",
+        "production": 150,
+        "lastUpdated": "2025-05-01 10:00"
+      },
+      {
+        "date": "2025-05-02",
+        "machine": "Machine A",
+        "status": "Active",
+        "production": 200,
+        "lastUpdated": "2025-05-02 10:00"
+      },
+      {
+        "date": "2025-05-03",
+        "machine": "Machine A",
+        "status": "Inactive",
+        "production": 0,
+        "lastUpdated": "2025-05-03 10:00"
+      },
+      {
+        "date": "2025-05-01",
+        "machine": "Machine B",
+        "status": "Active",
+        "production": 180,
+        "lastUpdated": "2025-05-01 10:00"
+      },
+      {
+        "date": "2025-05-02",
+        "machine": "Machine B",
+        "status": "Inactive",
+        "production": 0,
+        "lastUpdated": "2025-05-02 10:00"
+      },
+      {
+        "date": "2025-05-03",
+        "machine": "Machine B",
+        "status": "Active",
+        "production": 220,
+        "lastUpdated": "2025-05-03 10:00"
+      },
+      {
+        "date": "2025-05-01",
+        "machine": "Machine C",
+        "status": "Active",
+        "production": 120,
+        "lastUpdated": "2025-05-01 10:00"
+      },
+      {
+        "date": "2025-05-02",
+        "machine": "Machine C",
+        "status": "Active",
+        "production": 160,
+        "lastUpdated": "2025-05-02 10:00"
+      },
+      {
+        "date": "2025-05-03",
+        "machine": "Machine C",
+        "status": "Active",
+        "production": 140,
+        "lastUpdated": "2025-05-03 10:00"
+      },
+      {
+        "date": "2025-05-01",
+        "machine": "Machine D",
+        "status": "Inactive",
+        "production": 0,
+        "lastUpdated": "2025-05-01 10:00"
+      },
+      {
+        "date": "2025-05-02",
+        "machine": "Machine D",
+        "status": "Active",
+        "production": 250,
+        "lastUpdated": "2025-05-02 10:00"
+      },
+      {
+        "date": "2025-05-03",
+        "machine": "Machine D",
+        "status": "Active",
+        "production": 230,
+        "lastUpdated": "2025-05-03 10:00"
+      },
+      {
+        "date": "2025-05-01",
+        "machine": "Machine E",
+        "status": "Active",
+        "production": 175,
+        "lastUpdated": "2025-05-01 10:00"
+      },
+      {
+        "date": "2025-05-02",
+        "machine": "Machine E",
+        "status": "Active",
+        "production": 210,
+        "lastUpdated": "2025-05-02 10:00"
+      },
+      {
+        "date": "2025-05-03",
+        "machine": "Machine E",
+        "status": "Active",
+        "production": 190,
+        "lastUpdated": "2025-05-03 10:00"
+      },
+      {
+        "date": "2025-05-01",
+        "machine": "Machine F",
+        "status": "Inactive",
+        "production": 0,
+        "lastUpdated": "2025-05-01 10:00"
+      },
+      {
+        "date": "2025-05-02",
+        "machine": "Machine F",
+        "status": "Active",
+        "production": 210,
+        "lastUpdated": "2025-05-02 10:00"
+      }
+    ]
+  }
+  
